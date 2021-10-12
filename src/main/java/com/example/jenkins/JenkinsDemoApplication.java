@@ -14,7 +14,7 @@ public class JenkinsDemoApplication {
 	
 	@PostConstruct
 	public void testmethode() {
-		logger.info("welcome to test logger");
+		logger.info("welcome to zapcom");
 	}
 	public static void main(String[] args) {
 		logger.info("afer logging");
