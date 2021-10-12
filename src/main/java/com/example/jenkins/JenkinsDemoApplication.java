@@ -16,6 +16,8 @@ public class JenkinsDemoApplication {
 	public void testmethode() {
 		logger.info("welcome to zapcom");
 	}
+
+
 	public static void main(String[] args) {
 		logger.info("afer logging");
 		SpringApplication.run(JenkinsDemoApplication.class, args);
